@@ -1,1 +1,1 @@
-# Crypto-Place
+a simple react project that shows crypto details from a api
